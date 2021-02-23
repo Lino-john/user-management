@@ -1,0 +1,25 @@
+.user-list img{
+    border-radius: 50%;
+}
+.user-list .boldFont {
+    font-weight: bold;
+    font-size: 20px;
+}
+.user-list button {
+    float: right;
+}
+.user-list .userDeatails {
+    box-shadow: inset 0 0 10px #e0dbdb;
+    border-radius: 10px;
+    margin: 20px;
+}
+.add-user {
+    position: absolute;
+    right: 20px;
+}
+.formHeader  {
+    text-align: center;
+}   
+
+
+
